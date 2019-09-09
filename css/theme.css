@@ -13,7 +13,7 @@
 
 html, body {
 	font-family: 'Open Sans', sans-serif;
-	background:#222222;
+	background: rgb(255, 102, 0)
 	color: #f7f7f7;
 	margin:0; 
 	padding:0;
@@ -493,12 +493,12 @@ cite {
 /* Titles */
 
 .section-title-wrapper {
-	background-color: #f7f7f7;
+	background-color: #e0c8c8;
 	padding: 50px 0;
 }
 
 .section-title h1 span{
-	color: #fff;
+	color: #e0c8c8;
 	padding: 0 10px;
 	font-family: 'Open Sans Condensed', sans-serif;
 	font-size: 40px;
